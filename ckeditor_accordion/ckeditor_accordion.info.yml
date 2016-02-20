@@ -1,0 +1,8 @@
+name: CKEditor Accordion Button
+type: module
+description: This plugin adds create accordion feature to the editor.
+core: 8.x
+package: CKEditor
+version: 1.0
+dependencies:
+  - ckeditor
